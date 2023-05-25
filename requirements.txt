@@ -1,0 +1,2 @@
+css-inline==0.8.7
+watchdog==3.0.0
